@@ -1,0 +1,9 @@
+I made this because I was annoyed with having to click and drag to copy a branch name that has slashes in it in pull requests.
+
+To add to Chrome:
+
+1. Clone copy-branch-name repository
+2. Go to Tools -> Extensions in Chrome
+3. Check "Developer mode"
+4. Click "Load unpacked extension"
+5. Add copy-branch-name directory
