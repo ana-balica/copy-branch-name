@@ -1,5 +1,5 @@
 {
-  "name": "Pull Request Copy Branch Name",
+  "name": "GitHub Pull Request Copy Branch Name",
   "description": "Copy pull request branch names in Github.",
   "version": "1",
   "manifest_version": 2,
