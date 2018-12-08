@@ -2,6 +2,7 @@
   "name": "Pull Request Copy Branch Name",
   "description": "Copy pull request branch names in Github.",
   "version": "1",
+  "manifest_version": 2,
   "content_scripts": [
     {
       "js": ["copy_branch_name.user.js"],
